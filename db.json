@@ -1,5 +1,13 @@
 {
     "users": [
-        
+        {
+
+        "id": 1,
+        "name": "G-syn",
+        "surename": "N-video",
+        "photo_url": "not-found!",
+        "balance": 2000
+
+        }
     ]
 }
