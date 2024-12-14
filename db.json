@@ -9,5 +9,25 @@
         "balance": 2000
 
         }
+    ],
+    "items":[
+    {
+    "id":2, 
+    "tittle": "Phone Poko",
+    "description": "This is gamagey",
+    "img": "https://rukminim1.flixcart.com/image/900/900/xif0q/mobile/e/o/w/-original-imagzcfjjbheykct.jpeg?q=90"
+    },
+    {
+        "id":5, 
+        "tittle": "Igroviy nout",
+        "description": "Goida",
+        "img": "https://i0.wp.com/www.lapstore.com.ua/wp-content/uploads/2023/11/msi-ge-76-raider800_600.jpg?ssl=1"
+        } 
+        {
+            "id":6, 
+            "tittle": "black",
+            "description": "Goida",
+            "img": "https://c.files.bbci.co.uk/14F9E/production/_108881958_gettyimages-154047293.jpg"
+            } 
     ]
 }
